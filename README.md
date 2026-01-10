@@ -7,6 +7,10 @@ https://gitforwindows.org/
 
 ## Developing
 
+
+
+
+
 Note: if you have the cautious 'Use Git from Git Bash only' setting then you may need to change from bash to cmd at step 2, adjusting the cd path at step 3.
 
 0. `git clone https://github.com/git-for-windows/git-for-windows.github.io.git` (this repo) 
